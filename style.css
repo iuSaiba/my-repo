@@ -1,0 +1,30 @@
+.blog-head{
+    color: #FC427B;
+    text-align: center;
+}
+small{
+     text-align: center;
+     color: #ffffff;
+     font-size: x-large;
+}
+.blog p{
+    text-align: justify;
+    color: #ffffff;
+    font-size: x-large;
+}
+.blog{
+     background-color:  hotpink;
+     border: 50px solid darkblue;
+     margin-top: 24px;
+     padding: 46px;
+     margin-bottom: 24px;
+     margin-left: auto;
+     margin-right: auto;
+     border-radius: 9px;
+     width: 45%;
+ }
+.blog-title{
+    text-align: center;
+    color: #ffe600;
+    font-size: 3em;  
+ }
